@@ -1,5 +1,5 @@
 var services;
-var jsonPath="http://control.hrvatski.intercloud.net:8080/Orchestration/services/"
+var jsonPath="/Orchestration/services/"
 var currentUrl = $(location).attr('href');
 var serviceName="";
 var mainUrl=""
